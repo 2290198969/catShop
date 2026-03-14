@@ -1,0 +1,98 @@
+{
+  "cat_food": [
+    {
+      "id": 1,
+      "name": "渴望六种鱼全猫粮5.4kg",
+      "price": 649,
+      "type": "干粮",
+      "image": "product1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "皇家幼猫粮K36 2kg",
+      "price": 189,
+      "type": "干粮",
+      "image": "product3.jpg"
+    },
+    {
+      "id": 3,
+      "name": "爱肯拿海洋盛宴6kg",
+      "price": 689,
+      "type": "干粮",
+      "image": "product4.jpg"
+    }
+  ],
+  "litter": [
+    {
+      "id": 1,
+      "name": "铂钻膨润土猫砂6.35kg",
+      "price": 129,
+      "type": "猫砂",
+      "image": "product5.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Pidan混合砂4.5kg",
+      "price": 39,
+      "type": "猫砂",
+      "image": "product6.jpg"
+    }
+  ],
+  "toy": [
+    {
+      "id": 1,
+      "name": "电动逗猫蝴蝶鱼",
+      "price": 79,
+      "type": "玩具",
+      "image": "product7.jpg"
+    },
+    {
+      "id": 2,
+      "name": "三层转盘猫抓板",
+      "price": 129,
+      "type": "玩具",
+      "image": "product8.jpg"
+    }
+  ],
+  "scratchingPost": [
+    {
+      "id": 1,
+      "name": "三层转盘猫抓板",
+      "price": 129,
+      "type": "猫抓板",
+      "image": "product8.jpg"
+    }
+  ],
+  "hairballCream": [
+    {
+      "id": 1,
+      "name": "红狗化毛膏120g",
+      "price": 59,
+      "type": "化毛膏",
+      "image": "product9.jpg"
+    }
+  ],
+  "earWash": [
+    {
+      "id": 1,
+      "name": "维克耳漂洗耳液60ml",
+      "price": 89,
+      "type": "洗耳液",
+      "image": "product10.jpg"
+    }
+  ],
+  "nest": [],
+  "bowl": [],
+  "litterBox": [],
+  "anthelmintics": [],
+  "shampoo": [],
+  "comb": [],
+  "nailClipper": [],
+  "toothpaste": [],
+  "toothbrush": [],
+  "eyeDrop": [],
+  "vaccine": [],
+  "snack": [],
+  "cannedFood": [],
+  "catnip": []
+}
