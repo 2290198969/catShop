@@ -18,10 +18,10 @@ CatShop 是一款专为猫咪爱好者打造的宠物用品电商平台，采用
 ---
 
 ## ✨ 功能特性
-<img width="932" height="1394" alt="image" src="https://github.com/user-attachments/assets/f1dfe3ea-f680-41e7-8ab6-92663b98af0f" />
-<img width="932" height="1394" alt="image" src="https://github.com/user-attachments/assets/2136a008-0055-4754-8ffc-23c1e432d1ba" />
-<img width="932" height="1394" alt="image" src="https://github.com/user-attachments/assets/0ae98e3d-70c6-4990-b216-1585f27226e8" />
-<img width="932" height="1394" alt="image" src="https://github.com/user-attachments/assets/d608764c-f8b9-467d-9147-060691904bd7" />
+<img width="300" height="450" alt="image" src="https://github.com/user-attachments/assets/f1dfe3ea-f680-41e7-8ab6-92663b98af0f" />
+<img width="300" height="450" alt="image" src="https://github.com/user-attachments/assets/2136a008-0055-4754-8ffc-23c1e432d1ba" />
+<img width="300" height="450" alt="image" src="https://github.com/user-attachments/assets/0ae98e3d-70c6-4990-b216-1585f27226e8" />
+<img width="300" height="450" alt="image" src="https://github.com/user-attachments/assets/d608764c-f8b9-467d-9147-060691904bd7" />
 
 
 
